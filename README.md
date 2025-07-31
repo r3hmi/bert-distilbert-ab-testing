@@ -22,7 +22,7 @@ Through a systematic A/B testing pipeline, this project supports practitioners a
 
 ### **Architecture Overview**
 
-
+![Model Architecture Diagram](./assets/architecture.png "Model Architecture Diagram")
 
 
 ---
